@@ -5,7 +5,7 @@
 ```text
 bus-data-loader/
 ├── README.md                # A·B 역할, 구현 순서, 공통 데이터 규칙
-├── requirements.txt         # 필요한 패키지
+├── requirements.txt         # 필요한 패키지들을 기입해서 나중에 한번에 불러오기
 ├── .gitignore
 ├── main.py                  # 경로·기준 날짜 설정, 실행·결과 저장
 │
